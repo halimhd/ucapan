@@ -136,5 +136,8 @@
   <script src="https://malasid.github.io/html/hbd.js"></script>
   <!-- Sampai Sini -->
 </body>
-
+html {
+  height: 100%;
+  width: 100%;
+}
 </html>
